@@ -12,6 +12,7 @@ public class EnemyManager : MonoBehaviour
         {
             return _enemies[level - 1];
         }
+
         return null;
     }
 }

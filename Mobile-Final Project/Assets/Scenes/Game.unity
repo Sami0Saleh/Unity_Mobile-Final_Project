@@ -2779,8 +2779,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   _gameEndManager: {fileID: 407282217}
+  _levelEndManager: {fileID: 0}
   timerText: {fileID: 911828810}
-  initialTime: 60
+  initialTime: 5
 --- !u!1 &1184748890
 GameObject:
   m_ObjectHideFlags: 0

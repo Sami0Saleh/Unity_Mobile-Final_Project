@@ -12,7 +12,7 @@ public class Timer : MonoBehaviour
     private float _currentTime;
 
     public Text timerText;
-    public int initialTime = 60;
+    public int initialTime = 5;
     private void Awake()
     {
         GameStateManager.Instance.OnGameStateChanged += OnGameStateChanged;
@@ -33,9 +33,10 @@ public class Timer : MonoBehaviour
             _currentTime -= Time.deltaTime;
             UpdateTimerDisplay();
         }
-        else if (_currentTime == 0)
+        
+        if (_currentTime <= 0)
         {
-            _levelEndManager.levelEnd();
+            Debug.Log("ended");
             _gameEndManager.GameEnd();
         }
     }

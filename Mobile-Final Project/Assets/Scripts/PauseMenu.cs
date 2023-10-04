@@ -13,9 +13,10 @@ public class PauseMenu : MonoBehaviour
     private Transform _pauseTextTra;
     [SerializeField]
     private float _tweenTime;
+
     void Start()
     {
-        this.gameObject.SetActive(false);
+        gameObject.SetActive(false);
     }
     private void OnApplicationPause(bool pause)
     {
@@ -27,7 +28,7 @@ public class PauseMenu : MonoBehaviour
     }
     public void PauseGame()
     {
-        this.gameObject.SetActive(true);
+        gameObject.SetActive(true);
         GameState currentGameState = GameStateManager.Instance.CurrentGameState;
         GameState newGameState = currentGameState == GameState.GamePlay
             ? GameState.Pause
@@ -38,7 +39,7 @@ public class PauseMenu : MonoBehaviour
     }
     public void ContinueGame()
     {
-        this.gameObject.SetActive(false);
+        gameObject.SetActive(false);
         GameState currentGameState = GameStateManager.Instance.CurrentGameState;
         GameState newGameState = currentGameState == GameState.GamePlay
             ? GameState.Pause

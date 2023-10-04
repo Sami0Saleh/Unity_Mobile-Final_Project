@@ -14,20 +14,20 @@ public class LevelEndManager : MonoBehaviour
     private Player _player;
     void Start()
     {
-        this.gameObject.SetActive(false);
+        gameObject.SetActive(false);
         _youLose.SetActive(false);
         _youWin.SetActive(false);
     }
     public void levelEnd()
     {
-        this.gameObject.SetActive(true);
+        gameObject.SetActive(true);
         if (_player.level <= 3)
         {
             if (GetActiveEnemy().currentHp == 0 || _player.currentHp > GetActiveEnemy().currentHp)
             {
                 _youWin.SetActive(true);
             }
-            else if (_player.currentHp == 0 || _player.currentHp < GetActiveEnemy().currentHp)
+            else if (_player.currentHp == 0 || _player.currentHp < GetActiveEnemy().currentHp || _player.currentHp == GetActiveEnemy().currentHp)
             {
                 _youLose.SetActive(true);
             }

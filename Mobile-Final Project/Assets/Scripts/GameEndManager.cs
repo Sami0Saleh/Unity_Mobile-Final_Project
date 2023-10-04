@@ -9,11 +9,11 @@ public class GameEndManager : MonoBehaviour
     private LevelEndManager _levelEndManager;
     void Start()
     {
-        this.gameObject.SetActive(false);
+        gameObject.SetActive(false);
     }
     public void GameEnd()
     {
-        this.gameObject.SetActive(true);
+        gameObject.SetActive(true);
         _levelEndManager.levelEnd();
         GameState currentGameState = GameStateManager.Instance.CurrentGameState;
         GameState newGameState = currentGameState == GameState.GamePlay
@@ -27,7 +27,7 @@ public class GameEndManager : MonoBehaviour
     public void PlayerDead()
     {
         _levelEndManager.levelEnd();
-        this.gameObject.SetActive(true);
+        gameObject.SetActive(true);
         GameState currentGameState = GameStateManager.Instance.CurrentGameState;
         GameState newGameState = currentGameState == GameState.GamePlay
             ? GameState.Pause
