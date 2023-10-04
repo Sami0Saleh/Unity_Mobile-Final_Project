@@ -1,0 +1,2692 @@
+fileFormatVersion: 2
+guid: 167712cf37047364ca71b7db35e79137
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Avishai_20
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 1216
+        width: 32
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0bc24cc895eaee449bfdd3067d2e4a3c
+      internalID: -1640251541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Avishai_21
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 1216
+        width: 32
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2d4a5c7095fe7a459e3611fac4a7c17
+      internalID: -420823024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Avishai_22
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 1216
+        width: 32
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2ef4dd10248a52418c50ccf44638326
+      internalID: -1123233506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Avishai_24
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 1216
+        width: 50
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c33850eb829d1f41b6ae7a291edc139
+      internalID: 1952651050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Avishai_26
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 1216
+        width: 57
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c36e1c5d5658d84aa147f1dfdba76cf
+      internalID: -444397332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Avishai_28
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 1216
+        width: 57
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58107a638b07580449817ced42f0172e
+      internalID: 1726916697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Avishai_30
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 1216
+        width: 55
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 854b08622b23d014b9e5a639d0d56300
+      internalID: -1142431608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Avishai_32
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 1152
+        width: 32
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6f2449d7cd1a3e42b85a63754d76871
+      internalID: 686983410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Avishai_33
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 1152
+        width: 32
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f613ebca3138f374da75f4091e7b6547
+      internalID: 732652120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Avishai_34
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 1152
+        width: 32
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6588a42b2deb42644b11b509f4dd1c36
+      internalID: 1825131719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Avishai_35
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 1152
+        width: 36
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8dee310c5dd71414eafc727c449c90ac
+      internalID: 773057023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Avishai_36
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 1152
+        width: 50
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f0fb67d553e6dd4ba6cf60bf093acbe
+      internalID: 2093952599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Avishai_38
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 1152
+        width: 48
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c286c06fad9532d46bb5e3e185cb86d8
+      internalID: -126056608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Avishai_39
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 1152
+        width: 34
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf81f78326692a74b8c3aeece5d13d09
+      internalID: 643737172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Avishai_49
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 1088
+        width: 32
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bba28f6541f79584690e69d70bc69591
+      internalID: 993875605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Avishai_50
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 1088
+        width: 32
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ed66c330238250498a106f68577ef54
+      internalID: 562347968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Avishai_51
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 1088
+        width: 32
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 182dc2cf9cfa9204588a26ab707614fc
+      internalID: -1783199686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Avishai_52
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 1088
+        width: 46
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c7c4afb17ec5a64b8370f748619372f
+      internalID: -1859074115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Avishai_54
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 1088
+        width: 54
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c02e38d0306ae6d4897b3a541b791299
+      internalID: -1327963202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Avishai_55
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 1088
+        width: 57
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6503408c90c1b445a2f2c1c1ee568e1
+      internalID: -706901819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Avishai_56
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 1088
+        width: 59
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 497cc3bd0ed36a74a985faa6ab4daa4d
+      internalID: 232459404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Avishai_71
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 960
+        width: 65
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40c435e89ed0e02459d19527596371c5
+      internalID: -632099159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Avishai_86
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 960
+        width: 51
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37d65a7a0dff30746979b025ee744b8c
+      internalID: 482254855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Avishai_87
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 960
+        width: 56
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c917ac2ac810b1418f586eed8ec7214
+      internalID: -1200077497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Avishai_88
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 960
+        width: 41
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bc3559e5f149c448be47a8fac249336
+      internalID: 855517658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Avishai_89
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 960
+        width: 56
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99bcca97291490a4fb8dca8c34467d4e
+      internalID: -990066041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Avishai_90
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 960
+        width: 50
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b589e27a36232b44793dd40417bd89b1
+      internalID: 1507447022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Avishai_91
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 960
+        width: 40
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbdfa258785d1ca419f78412fb305ba3
+      internalID: -878708295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Avishai_92
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 960
+        width: 43
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31b774d9cf5acbe42ac96f5eec7fddc6
+      internalID: -1722330617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Avishai_132
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 832
+        width: 52
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 353723099bd8aad49b27762fc423df74
+      internalID: 1673353743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Avishai_136
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 832
+        width: 63
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3904f08a90b12204398657863e31d760
+      internalID: 628603282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Avishai_137
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 832
+        width: 50
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: edcd3621db1f18f41a500ca56391aec4
+      internalID: 2086262064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Avishai_138
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 832
+        width: 48
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f05e9992c4c06624f876c9e27148011a
+      internalID: 1744366667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Avishai_139
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 832
+        width: 38
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6a55e4c4fa17634685c114969b7815d
+      internalID: 1618113093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Avishai_140
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 829
+        width: 59
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89400980b35602147b19c37fb179b56d
+      internalID: 853003339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Avishai_142
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 832
+        width: 43
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 748df926cca6683438cd0c590a219837
+      internalID: -1526232472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Avishai_143
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 832
+        width: 51
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 518c1cc963ef742438f83f60d3bc4fa1
+      internalID: 335115813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Avishai_178
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 704
+        width: 32
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f5f901c93692e342806b9c5322362b0
+      internalID: -714023551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Avishai_179
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 704
+        width: 32
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e7f1cfa4511dc14ea6cbe749c980937
+      internalID: 136006737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Avishai_180
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 704
+        width: 32
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3cf25c4f6dda3e341ab9802c40957c43
+      internalID: 1041911592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Avishai_181
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 704
+        width: 32
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f33f5370f0cfc354f9c27f9266d8dac7
+      internalID: 1755189521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Avishai_182
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 704
+        width: 32
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce6c667029acdf7488be6211e44ac52c
+      internalID: 383790792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Avishai_183
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 704
+        width: 32
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10800ffc5ad10f141881aeddc1d0bc5b
+      internalID: -943207575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Avishai_184
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 704
+        width: 32
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfe51627a76f50d439d95e75f3af14f6
+      internalID: -1109637637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Avishai_185
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 704
+        width: 32
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 591996aefb53df149b92c07320b7d132
+      internalID: -603404255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Avishai_186
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 702
+        width: 32
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 757c00c0ddf0729489f868a72fe1ffe2
+      internalID: -1057409508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Avishai_218
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 576
+        width: 32
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 533ef5dd4b264854783d98f1dacfbd58
+      internalID: 127387043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Avishai_219
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 576
+        width: 32
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb4167defa62b854a9a6f8e0e5e9af44
+      internalID: 525178204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Avishai_220
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 576
+        width: 32
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 386f2b94755ad6747b3bbd9a39a60fc1
+      internalID: 1251751496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Avishai_222
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 576
+        width: 32
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a89d73727768d6d4f85c0d2f2517e377
+      internalID: 2059454900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Avishai_223
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 576
+        width: 32
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23a26b1bb6e597b44b619ac6d225c39e
+      internalID: -1170645208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Avishai_224
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 576
+        width: 32
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f9e59a64d94c504aae4c90bec4d64d6
+      internalID: -123548867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Avishai_225
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 576
+        width: 32
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5cf3bc3d85ec014fb273a144e3f58d0
+      internalID: 2098795918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Avishai_226
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 576
+        width: 32
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c59251bce077ec4398cb4fee1f50f2c
+      internalID: -395637466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Avishai_227
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 576
+        width: 32
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fb9dc55432a807469b0fba3822e5bcd
+      internalID: -1013968651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Avishai_244
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 448
+        width: 32
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55914f0d275a00844a7590d6cbaf5578
+      internalID: 1452390715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Avishai_245
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 448
+        width: 32
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50e69f62a96f3e2499c749ce3e31b827
+      internalID: 41278509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Avishai_246
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 448
+        width: 32
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c28b98fd7f8fced4e9e8ca1a9d8df76e
+      internalID: 1702880580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Avishai_248
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 448
+        width: 34
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8154500e4b610747ac60629feed6235
+      internalID: -1458008356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Avishai_249
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 448
+        width: 36
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6567375f56cc63c478f741edf5b62a5b
+      internalID: 254494407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Avishai_251
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 448
+        width: 33
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f39df364744b5645970073ebeb6e24f
+      internalID: 1080672262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Avishai_279
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 320
+        width: 32
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0d96c6752bdbfd4f9ee4eb5072cfe55
+      internalID: 1026587405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Avishai_280
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 320
+        width: 32
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a993acdfae165f4faaba8dc4a54a768
+      internalID: -2001977439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Avishai_281
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 320
+        width: 32
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 247bd193f949f394a93a2c7ac0359139
+      internalID: -1478036013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Avishai_282
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 320
+        width: 34
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 264763aafe2e9e74a93917db8f3e6c35
+      internalID: -992973577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Avishai_283
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 320
+        width: 36
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 444bc12cd9d4b7949abb4a5ce2ba7881
+      internalID: -182887454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Avishai_284
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 320
+        width: 33
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e38aa9b47af5aa438010e8efd6aa0eb
+      internalID: 1499609055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Avishai_328
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 192
+        width: 32
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b5a54ec5b3706540bc6c476978207e3
+      internalID: -1019804249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Avishai_329
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 192
+        width: 32
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac40df7bc5d1a5b4d98cf39d73e205b7
+      internalID: 1007839720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Avishai_330
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 192
+        width: 34
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4bd8167409571543bd17f6170c679eb
+      internalID: 429612830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Avishai_332
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 192
+        width: 36
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c611de6b070f428468374c0a2fde89c7
+      internalID: 1958020256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Avishai_333
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 192
+        width: 36
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5fa2ae9193a5a645a17a074f6ec8d2d
+      internalID: 1130843235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Avishai_334
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 192
+        width: 37
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f78ca65620254944bb2cd8ee0b6f079
+      internalID: -270435612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Avishai_335
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 192
+        width: 37
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffc5cdf1e7811044f88cadadc226102e
+      internalID: -1017063870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Avishai_336
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 192
+        width: 36
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e07ab976417558b4e9991b52f4a64322
+      internalID: -58086629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Avishai_337
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 192
+        width: 38
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d7b0b92df00f3e489d56caa4784f2de
+      internalID: 477752233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Avishai_338
+      rect:
+        serializedVersion: 2
+        x: 589
+        y: 192
+        width: 36
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4383b09a633a8c44881b9b88135fce2
+      internalID: 650663007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Avishai_339
+      rect:
+        serializedVersion: 2
+        x: 653
+        y: 192
+        width: 36
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee16b3806d64cd746849ce6d6707b154
+      internalID: -1114329608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Avishai_340
+      rect:
+        serializedVersion: 2
+        x: 717
+        y: 192
+        width: 39
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa523c8d7bee6944bb1607537d38a8d8
+      internalID: 1623991332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Avishai_341
+      rect:
+        serializedVersion: 2
+        x: 781
+        y: 192
+        width: 36
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4cddc1c45500914c9f576ec4c98ed7d
+      internalID: -1395505201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Avishai_342
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 126
+        width: 86
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f03814a9bc728d04f8a277a817997b67
+      internalID: 1531060682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Avishai_343
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 127
+        width: 86
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 038ef08c16fecd24099acc728bcd3db6
+      internalID: 1509266257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Avishai_377
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 64
+        width: 32
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c4b57ed94700fe4bb6def0a006147b2
+      internalID: -1293360189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Avishai_378
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 64
+        width: 32
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2b1ff6a99e2d224aa247a8f8e457ae1
+      internalID: -579239257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Avishai_379
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 64
+        width: 34
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 815ed9c97ba0b65419593e95f7bdd0fe
+      internalID: -1603051435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Avishai_380
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 64
+        width: 36
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65d69667eb694fe41a2fd3eb34d673ed
+      internalID: 1646261518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Avishai_381
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 64
+        width: 36
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4dfe0d3e620749445a968535bcaf5a3c
+      internalID: -2145655016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Avishai_382
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 64
+        width: 37
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc677636ba05750458afdde295240561
+      internalID: -1590757009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Avishai_383
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 64
+        width: 37
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94c8f08eb367ad944b6c8e337db56884
+      internalID: -1188612403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Avishai_384
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 64
+        width: 36
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5baeb70d3f65885468efdaa65688c154
+      internalID: -519960247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Avishai_385
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 64
+        width: 38
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c6c175384d28e54da30da73407cea8c
+      internalID: -140961732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Avishai_386
+      rect:
+        serializedVersion: 2
+        x: 591
+        y: 64
+        width: 36
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5bd70cf1b03368a4aa2538c9bbdb9750
+      internalID: 268856131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Avishai_387
+      rect:
+        serializedVersion: 2
+        x: 655
+        y: 64
+        width: 36
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b259bbf125379b42b2427847b907218
+      internalID: 323036985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Avishai_388
+      rect:
+        serializedVersion: 2
+        x: 719
+        y: 64
+        width: 36
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 582e8cb9eef026d4db344c8f72b7c2e4
+      internalID: 2059687521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Avishai_389
+      rect:
+        serializedVersion: 2
+        x: 783
+        y: 64
+        width: 36
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea875add319088f4e8204abc3750b903
+      internalID: -22134992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Avishai_393
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 0
+        width: 34
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5588e10723ad184baa0f41c74e3e8a3
+      internalID: 631878030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Avishai_395
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 0
+        width: 34
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6e16b83080507747b8be007a6cf16db
+      internalID: 1886216154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Avishai_396
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 0
+        width: 34
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e40f4461faf11040ab7408af56b1490
+      internalID: 305349586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Avishai_397
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 0
+        width: 35
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3efbe2c82fd6e5847bf348d6e0929187
+      internalID: 780606336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Avishai_399
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 1
+        width: 36
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9be20884ebc1f024198273b0cd3451d2
+      internalID: 1770878698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Avishai_401
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 0
+        width: 49
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62ca21846a65d874f8d7ad09a470834c
+      internalID: 44728625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Avishai_0: 647538684
+      Avishai_1: 456150666
+      Avishai_10: -2028680244
+      Avishai_100: 1789119271
+      Avishai_101: 127513332
+      Avishai_102: -938408414
+      Avishai_103: 807432256
+      Avishai_104: -842633791
+      Avishai_105: 1229836891
+      Avishai_106: -466188625
+      Avishai_107: 1483379843
+      Avishai_108: -1144025254
+      Avishai_109: 913465966
+      Avishai_11: -43890465
+      Avishai_110: -1887430880
+      Avishai_111: 885066252
+      Avishai_112: -2084140859
+      Avishai_113: 815751536
+      Avishai_114: -228197254
+      Avishai_115: 1162605424
+      Avishai_116: -465508886
+      Avishai_117: -1059478008
+      Avishai_118: 947552897
+      Avishai_119: -31591013
+      Avishai_12: -1954789249
+      Avishai_120: 2040903402
+      Avishai_121: 305296447
+      Avishai_122: -182543800
+      Avishai_123: -872742414
+      Avishai_124: -513929582
+      Avishai_125: -950581161
+      Avishai_126: -1859133528
+      Avishai_127: -667348505
+      Avishai_128: -457319528
+      Avishai_129: -518587326
+      Avishai_13: -1555524387
+      Avishai_130: -1534791880
+      Avishai_131: 1972371296
+      Avishai_132: 1673353743
+      Avishai_133: -2034663070
+      Avishai_134: -1268679778
+      Avishai_135: -232806141
+      Avishai_136: 628603282
+      Avishai_137: 2086262064
+      Avishai_138: 1744366667
+      Avishai_139: 1618113093
+      Avishai_14: -95649446
+      Avishai_140: 853003339
+      Avishai_141: 909679518
+      Avishai_142: -1526232472
+      Avishai_143: 335115813
+      Avishai_144: 1927550259
+      Avishai_145: 1253898432
+      Avishai_146: -266378001
+      Avishai_147: 1565500132
+      Avishai_148: 304544608
+      Avishai_149: 513438684
+      Avishai_15: 645178684
+      Avishai_150: -49393219
+      Avishai_151: 2063940020
+      Avishai_152: 1960731625
+      Avishai_153: -1696476565
+      Avishai_154: -1310378954
+      Avishai_155: 143516698
+      Avishai_156: -1978258394
+      Avishai_157: -40543760
+      Avishai_158: 877029624
+      Avishai_159: 634551886
+      Avishai_16: -2059533224
+      Avishai_160: 48465474
+      Avishai_161: -404660904
+      Avishai_162: 1103419443
+      Avishai_163: 1303851329
+      Avishai_164: -1702020857
+      Avishai_165: 1639199423
+      Avishai_166: 1998380770
+      Avishai_167: 2037649680
+      Avishai_168: 694467359
+      Avishai_169: -1780233594
+      Avishai_17: -1535917376
+      Avishai_170: -1206048846
+      Avishai_171: 1170131582
+      Avishai_172: -2029735707
+      Avishai_173: -1585446493
+      Avishai_174: -851652613
+      Avishai_175: 1598629207
+      Avishai_176: 1400997908
+      Avishai_177: -1136589344
+      Avishai_178: -714023551
+      Avishai_179: 136006737
+      Avishai_18: 1422328279
+      Avishai_180: 1041911592
+      Avishai_181: 1755189521
+      Avishai_182: 383790792
+      Avishai_183: -943207575
+      Avishai_184: -1109637637
+      Avishai_185: -603404255
+      Avishai_186: -1057409508
+      Avishai_187: 1185664670
+      Avishai_188: -657239346
+      Avishai_189: 622718290
+      Avishai_19: 584075068
+      Avishai_190: -354917708
+      Avishai_191: 1100050655
+      Avishai_192: -1375406662
+      Avishai_193: -287402732
+      Avishai_194: -1325197842
+      Avishai_195: 2118021041
+      Avishai_196: -2068813057
+      Avishai_197: -1888802255
+      Avishai_198: -300658757
+      Avishai_199: -1460739384
+      Avishai_2: 535985993
+      Avishai_20: -1640251541
+      Avishai_200: 1100473258
+      Avishai_201: 1218490515
+      Avishai_202: 885991653
+      Avishai_203: 379935775
+      Avishai_204: 874285494
+      Avishai_205: 1413472475
+      Avishai_206: 1855950681
+      Avishai_207: -2056067427
+      Avishai_208: 714976922
+      Avishai_209: -1120838758
+      Avishai_21: -420823024
+      Avishai_210: 1729542383
+      Avishai_211: 855737637
+      Avishai_212: -1925585286
+      Avishai_213: -1519351861
+      Avishai_214: -1592736017
+      Avishai_215: -73545848
+      Avishai_216: 1349436249
+      Avishai_217: -1905212059
+      Avishai_218: 127387043
+      Avishai_219: 525178204
+      Avishai_22: -1123233506
+      Avishai_220: 1251751496
+      Avishai_221: -1962530718
+      Avishai_222: 2059454900
+      Avishai_223: -1170645208
+      Avishai_224: -123548867
+      Avishai_225: 2098795918
+      Avishai_226: -395637466
+      Avishai_227: -1013968651
+      Avishai_228: -489186320
+      Avishai_229: 47261634
+      Avishai_23: 686888733
+      Avishai_230: 566300189
+      Avishai_231: -1980642775
+      Avishai_232: 1570923726
+      Avishai_233: -19751392
+      Avishai_234: -1304612834
+      Avishai_235: 1018127279
+      Avishai_236: -1635477240
+      Avishai_237: 1000028484
+      Avishai_238: 1669536354
+      Avishai_239: -746371674
+      Avishai_24: 1952651050
+      Avishai_240: -414580225
+      Avishai_241: 940207916
+      Avishai_242: -68382299
+      Avishai_243: -1906819524
+      Avishai_244: 1452390715
+      Avishai_245: 41278509
+      Avishai_246: 1702880580
+      Avishai_247: 2055563300
+      Avishai_248: -1458008356
+      Avishai_249: 254494407
+      Avishai_25: 1469743172
+      Avishai_250: 2102492362
+      Avishai_251: 1080672262
+      Avishai_252: 978630778
+      Avishai_253: 1905842566
+      Avishai_254: -39675247
+      Avishai_255: 1301547660
+      Avishai_256: -254150436
+      Avishai_257: -610137316
+      Avishai_258: 989518879
+      Avishai_259: 787065889
+      Avishai_26: -444397332
+      Avishai_260: -309768770
+      Avishai_261: -1399668642
+      Avishai_262: -1005112774
+      Avishai_263: 677710903
+      Avishai_264: -282912956
+      Avishai_265: 459987417
+      Avishai_266: -1816666690
+      Avishai_267: 1015141223
+      Avishai_268: 715387956
+      Avishai_269: -871973146
+      Avishai_27: 1771234576
+      Avishai_270: -1715501807
+      Avishai_271: 1698321892
+      Avishai_272: 1958952556
+      Avishai_273: -1015260188
+      Avishai_274: 669656881
+      Avishai_275: -683848352
+      Avishai_276: -164597167
+      Avishai_277: -1737914563
+      Avishai_278: -1300846777
+      Avishai_279: 1026587405
+      Avishai_28: 1726916697
+      Avishai_280: -2001977439
+      Avishai_281: -1478036013
+      Avishai_282: -992973577
+      Avishai_283: -182887454
+      Avishai_284: 1499609055
+      Avishai_285: 1352316761
+      Avishai_286: 1644092885
+      Avishai_287: 1111071538
+      Avishai_288: -722739318
+      Avishai_289: -639597007
+      Avishai_29: -1860352167
+      Avishai_290: -1888602100
+      Avishai_291: -722734530
+      Avishai_292: 177767102
+      Avishai_293: -1688341406
+      Avishai_294: -1716292036
+      Avishai_295: 333695811
+      Avishai_296: 380715878
+      Avishai_297: 1539769194
+      Avishai_298: 701034196
+      Avishai_299: 212835179
+      Avishai_3: 2090148387
+      Avishai_30: -1142431608
+      Avishai_300: -1833903568
+      Avishai_301: -1118422455
+      Avishai_302: 1459773155
+      Avishai_303: 1648176957
+      Avishai_304: 591754335
+      Avishai_305: -1836275976
+      Avishai_306: -330798231
+      Avishai_307: 154209999
+      Avishai_308: -1454936240
+      Avishai_309: -1527343376
+      Avishai_31: -1571894355
+      Avishai_310: -677122278
+      Avishai_311: -975481
+      Avishai_312: 1010126784
+      Avishai_313: -441959938
+      Avishai_314: 849647927
+      Avishai_315: 1509536447
+      Avishai_316: 99835977
+      Avishai_317: 1497191098
+      Avishai_318: -1669465156
+      Avishai_319: 471085704
+      Avishai_32: 686983410
+      Avishai_320: -1066484771
+      Avishai_321: -1674745803
+      Avishai_322: 2097155298
+      Avishai_323: 1161290928
+      Avishai_324: 403664410
+      Avishai_325: 500787563
+      Avishai_326: 238799590
+      Avishai_327: 1703968266
+      Avishai_328: -1019804249
+      Avishai_329: 1007839720
+      Avishai_33: 732652120
+      Avishai_330: 429612830
+      Avishai_331: -304325151
+      Avishai_332: 1958020256
+      Avishai_333: 1130843235
+      Avishai_334: -270435612
+      Avishai_335: -1017063870
+      Avishai_336: -58086629
+      Avishai_337: 477752233
+      Avishai_338: 650663007
+      Avishai_339: -1114329608
+      Avishai_34: 1825131719
+      Avishai_340: 1623991332
+      Avishai_341: -1395505201
+      Avishai_342: 1531060682
+      Avishai_343: 1509266257
+      Avishai_344: 1644067027
+      Avishai_345: 2053726267
+      Avishai_346: -640390060
+      Avishai_347: -1530849225
+      Avishai_348: 972103409
+      Avishai_349: -2145675523
+      Avishai_35: 773057023
+      Avishai_350: -2113835582
+      Avishai_351: 1435199172
+      Avishai_352: 1813119666
+      Avishai_353: -2024650510
+      Avishai_354: -320011660
+      Avishai_355: -1462954437
+      Avishai_356: -438301758
+      Avishai_357: 1852136147
+      Avishai_358: -2077445081
+      Avishai_359: 1384262394
+      Avishai_36: 2093952599
+      Avishai_360: 1656965206
+      Avishai_361: 1549683952
+      Avishai_362: 1623150887
+      Avishai_363: 1852591985
+      Avishai_364: -33459110
+      Avishai_365: 1327374957
+      Avishai_366: -101838628
+      Avishai_367: -619144326
+      Avishai_368: 1689070764
+      Avishai_369: 1142539768
+      Avishai_37: -1331367769
+      Avishai_370: 1738266046
+      Avishai_371: -1430842207
+      Avishai_372: -687011843
+      Avishai_373: -971660943
+      Avishai_374: 387853819
+      Avishai_375: 1111347537
+      Avishai_376: 1585080269
+      Avishai_377: -1293360189
+      Avishai_378: -579239257
+      Avishai_379: -1603051435
+      Avishai_38: -126056608
+      Avishai_380: 1646261518
+      Avishai_381: -2145655016
+      Avishai_382: -1590757009
+      Avishai_383: -1188612403
+      Avishai_384: -519960247
+      Avishai_385: -140961732
+      Avishai_386: 268856131
+      Avishai_387: 323036985
+      Avishai_388: 2059687521
+      Avishai_389: -22134992
+      Avishai_39: 643737172
+      Avishai_390: 1188896467
+      Avishai_391: 528164431
+      Avishai_392: 1951747256
+      Avishai_393: 631878030
+      Avishai_394: -1509812046
+      Avishai_395: 1886216154
+      Avishai_396: 305349586
+      Avishai_397: 780606336
+      Avishai_398: -1245020541
+      Avishai_399: 1770878698
+      Avishai_4: -127120413
+      Avishai_40: 1576441293
+      Avishai_400: 1429917207
+      Avishai_401: 44728625
+      Avishai_402: 431702472
+      Avishai_403: -747138679
+      Avishai_404: 1463071902
+      Avishai_41: 1873129859
+      Avishai_42: 1935154168
+      Avishai_43: 1527440813
+      Avishai_44: 2124209983
+      Avishai_45: 1339785093
+      Avishai_46: -1674192959
+      Avishai_47: -500997027
+      Avishai_48: 383799130
+      Avishai_49: 993875605
+      Avishai_5: 504565397
+      Avishai_50: 562347968
+      Avishai_51: -1783199686
+      Avishai_52: -1859074115
+      Avishai_53: -1004475511
+      Avishai_54: -1327963202
+      Avishai_55: -706901819
+      Avishai_56: 232459404
+      Avishai_57: -174509267
+      Avishai_58: 1939618652
+      Avishai_59: -745164881
+      Avishai_6: 529987272
+      Avishai_60: -2072462692
+      Avishai_61: 785988951
+      Avishai_62: -71131433
+      Avishai_63: 973000237
+      Avishai_64: -2114597140
+      Avishai_65: -1631684892
+      Avishai_66: 1907116890
+      Avishai_67: 359969152
+      Avishai_68: -1663705762
+      Avishai_69: -1249405359
+      Avishai_7: 523083045
+      Avishai_70: 117204412
+      Avishai_71: -632099159
+      Avishai_72: -411245491
+      Avishai_73: 2095434693
+      Avishai_74: -589041713
+      Avishai_75: -2066361744
+      Avishai_76: -1232889823
+      Avishai_77: -1135365238
+      Avishai_78: 929447578
+      Avishai_79: -2115554338
+      Avishai_8: -1608035113
+      Avishai_80: -522723201
+      Avishai_81: -1778091806
+      Avishai_82: 578079867
+      Avishai_83: -961482371
+      Avishai_84: 465329182
+      Avishai_85: -573697848
+      Avishai_86: 482254855
+      Avishai_87: -1200077497
+      Avishai_88: 855517658
+      Avishai_89: -990066041
+      Avishai_9: -1702026733
+      Avishai_90: 1507447022
+      Avishai_91: -878708295
+      Avishai_92: -1722330617
+      Avishai_93: 862394371
+      Avishai_94: 1521751360
+      Avishai_95: 861112971
+      Avishai_96: 2105339508
+      Avishai_97: -1077438564
+      Avishai_98: 2078522217
+      Avishai_99: -1097150298
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

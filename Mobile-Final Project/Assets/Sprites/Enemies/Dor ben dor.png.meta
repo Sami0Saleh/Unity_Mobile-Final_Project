@@ -1,0 +1,2275 @@
+fileFormatVersion: 2
+guid: 2bde43db7f116854082087fb661e9bef
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Dor ben dor_8
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 1216
+        width: 62
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c972494baccafff448b3dbd403f80370
+      internalID: -1253736878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dor ben dor_10
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 1216
+        width: 27
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 578592c8e395c7849898e22291793c2e
+      internalID: -1894847077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dor ben dor_11
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 1216
+        width: 25
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4870b712870458641a1847d11677ea3c
+      internalID: -1205112520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dor ben dor_12
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 1216
+        width: 26
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e452775efdc2f124d92615be9b95a98e
+      internalID: 786132945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dor ben dor_13
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 1216
+        width: 27
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4c3798251b921f429572129fb321ce1
+      internalID: -223996242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dor ben dor_15
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 1216
+        width: 63
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f7bb79bb94f62740ae97e9630721676
+      internalID: -914898380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dor ben dor_16
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 1216
+        width: 76
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea13fb9f53eeae74c8bd4e9c0c5fb71d
+      internalID: -1768796337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dor ben dor_24
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 1088
+        width: 30
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1210ff52f6c883745818b719adac35cc
+      internalID: 680987145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dor ben dor_25
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 1088
+        width: 26
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c24be8cbca631ac4595488472cda3cdd
+      internalID: -731300797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dor ben dor_26
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 1087
+        width: 27
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6952086e116b0944a7f7fdc51bc1519
+      internalID: 792552393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dor ben dor_27
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 1088
+        width: 27
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 778182d28a5ddcf44b8607211c65b4cf
+      internalID: 1001045270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dor ben dor_29
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 1086
+        width: 60
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4e5964ee311f1246b3693cd86482e31
+      internalID: -1240807628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dor ben dor_30
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 1087
+        width: 59
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00616044c9c65d74e910e8c28c4f5df2
+      internalID: 1566103042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dor ben dor_35
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 960
+        width: 27
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f41dddf07533c3843a820e93c85c7f60
+      internalID: -1474034121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dor ben dor_36
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 960
+        width: 27
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3696eaa8c4492ac4285dd94ba7fe73df
+      internalID: 717828883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dor ben dor_37
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 960
+        width: 29
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 342423de600ac6e4693cc996ce6412b8
+      internalID: 469894739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dor ben dor_38
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 960
+        width: 28
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0deb915f776d253429e81caaf10070a0
+      internalID: 622141450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dor ben dor_39
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 960
+        width: 31
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67b1907a2063aa242b5d55e2e7713d6d
+      internalID: -1001559016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dor ben dor_40
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 960
+        width: 33
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7b6d74e3e720d14a95e9bcafca85cc4
+      internalID: 1761070928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dor ben dor_41
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 960
+        width: 30
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78445008227a8b64b8e53b6c0c459be3
+      internalID: -495033706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dor ben dor_42
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 960
+        width: 28
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 822fe7bdc798fab48a09be90c5bda8a4
+      internalID: -264970624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dor ben dor_62
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 832
+        width: 26
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a59e5755932b80489778c63ad6fb0c9
+      internalID: -1244153648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dor ben dor_63
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 832
+        width: 27
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1b4d88f4887c94499c1614e05fe6e68
+      internalID: -1528727974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dor ben dor_64
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 832
+        width: 28
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bac9c1d76f2ca454b89ebb68ab832cfa
+      internalID: 1298130700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dor ben dor_65
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 832
+        width: 28
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae136a2bdc6667c4f8845f6f691f1f56
+      internalID: 1660342762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dor ben dor_66
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 832
+        width: 28
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 533f377fce4c7074d9c7420b7be6866c
+      internalID: 889688163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dor ben dor_67
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 832
+        width: 33
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ee0b3044929d0847a8c09747e6bb97b
+      internalID: -2018647832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dor ben dor_68
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 832
+        width: 31
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a776564dcbad79741abcf212401aa5cb
+      internalID: -535690705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dor ben dor_69
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 832
+        width: 28
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cff37f177d0ccde499e73c6f00582a07
+      internalID: -9479794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dor ben dor_71
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 702
+        width: 26
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b35de3fee3c02045a2ff6edbd304cdf
+      internalID: -1565220901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dor ben dor_72
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 704
+        width: 28
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7119048260488547bab68e0cdb561f0
+      internalID: 2130375540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dor ben dor_73
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 704
+        width: 28
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7beb73c6b7634e44890f8b8536ea405
+      internalID: -333582642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dor ben dor_74
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 704
+        width: 27
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae819c4160701da4695758c92658d8b7
+      internalID: 1563347832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dor ben dor_75
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 704
+        width: 27
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98d87303017c7014f89ac280ea5769e9
+      internalID: 1835743224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dor ben dor_76
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 704
+        width: 29
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffa8f94ab27ca7f4cadaf4a30d9bf5aa
+      internalID: 895236628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dor ben dor_77
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 703
+        width: 27
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2999a93c12319274191eb6526a480e1f
+      internalID: -1215497760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dor ben dor_78
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 702
+        width: 26
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d0533c6f4abbc7419df28fed39ad2c2
+      internalID: -2089777348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dor ben dor_79
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 704
+        width: 27
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 704d25b8ed2448842b66ca2bfed20b41
+      internalID: 538615480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dor ben dor_84
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 576
+        width: 30
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb27e2ce4da7ad445aad3fdccd46f219
+      internalID: -416680866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dor ben dor_85
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 576
+        width: 26
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91cdd77ed55b29644abacc7c5555ca5f
+      internalID: -1809743559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dor ben dor_86
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 576
+        width: 28
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6998371073df19443ab45a12b6428318
+      internalID: 1514997589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dor ben dor_87
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 576
+        width: 28
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a2e306cce5c76e43990ee088bf5b98a
+      internalID: 73448544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dor ben dor_88
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 576
+        width: 27
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 902c5eb4756d7f84caf4a2ec87cf0e2a
+      internalID: 1631604710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dor ben dor_89
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 576
+        width: 27
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e08050ea763d60342b06af47687d0006
+      internalID: 160601829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dor ben dor_90
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 576
+        width: 27
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 260b35dbcb589f9469a44a79117d1c3b
+      internalID: -1336846807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dor ben dor_91
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 576
+        width: 26
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 503853131034bbd4fa5d9e979ae40b96
+      internalID: 1796385162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dor ben dor_92
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 576
+        width: 28
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: deb66b1a5000a1d4c89eaff8d436b674
+      internalID: 1581366813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dor ben dor_100
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 448
+        width: 25
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f50fa05564a3a3544b48a2a6dcc93b60
+      internalID: -1136911700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dor ben dor_101
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 448
+        width: 26
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 892973862560840458f910b50c670c06
+      internalID: 644100987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dor ben dor_103
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 448
+        width: 28
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc11f8666e281fc46a70bef06546e440
+      internalID: 1549524545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dor ben dor_104
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 448
+        width: 34
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee273ecb17c7123489a2d2590cc566c1
+      internalID: 1065933447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dor ben dor_105
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 448
+        width: 36
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd2062a6d75ca0d4686fcf7e52e6df43
+      internalID: 259668201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dor ben dor_106
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 448
+        width: 33
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f37a152aeec2f694aa98668fc75c76df
+      internalID: 1640258955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dor ben dor_118
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 320
+        width: 26
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 353f979230690f04baaea406eeb15f9b
+      internalID: -1599076307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dor ben dor_119
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 320
+        width: 27
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a558589b5597424fa9dbbee9b8ec9c0
+      internalID: 248213948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dor ben dor_120
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 318
+        width: 27
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2256d82d8790e4d41a10fa0c9940c86c
+      internalID: 759220006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dor ben dor_121
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 320
+        width: 34
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff9682b8c6c909c47a325db6e0a22856
+      internalID: 184008746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dor ben dor_122
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 320
+        width: 36
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcabdab78e77ccf45a3cf3e021c293d3
+      internalID: 2075663386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dor ben dor_123
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 318
+        width: 33
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2eba83766d819e442b9bc12b97a848ae
+      internalID: -856767025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dor ben dor_124
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 192
+        width: 23
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45282491034279647ac0d71235027aba
+      internalID: -378543436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dor ben dor_126
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 192
+        width: 27
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d7acfaaf14c81643843913f18954e87
+      internalID: -2019494386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dor ben dor_127
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 192
+        width: 32
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e84f2cfb020355545bfa88c3bd5bb830
+      internalID: 27809780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dor ben dor_128
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 192
+        width: 35
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7f36cc08b2e40f4899d73eae796f999
+      internalID: -950192487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dor ben dor_129
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 192
+        width: 35
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4f9e2a9373c7cd4196255f6ed8bde49
+      internalID: 1987838754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dor ben dor_130
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 192
+        width: 33
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e46f59abfe1b9c349bb9954b08ec99c2
+      internalID: -1300554548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dor ben dor_131
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 192
+        width: 35
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2565b04096f9f248bccf2c43138766b
+      internalID: -1373064164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dor ben dor_132
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 192
+        width: 36
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e1ed35fb8a7723499c4aef61f28235a
+      internalID: -1768300763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dor ben dor_133
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 192
+        width: 38
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f381a54884bf934f9f70a2858fb9dfd
+      internalID: 314184966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dor ben dor_134
+      rect:
+        serializedVersion: 2
+        x: 589
+        y: 192
+        width: 35
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f42a93fde05f1e848a8f03d158373dc1
+      internalID: -1354881272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dor ben dor_135
+      rect:
+        serializedVersion: 2
+        x: 653
+        y: 192
+        width: 34
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae2cca792052efe41a1c2d4643b1e369
+      internalID: -1099285639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dor ben dor_136
+      rect:
+        serializedVersion: 2
+        x: 717
+        y: 192
+        width: 34
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c13b8218fa169e948aa8c0947bbff644
+      internalID: 1587597236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dor ben dor_137
+      rect:
+        serializedVersion: 2
+        x: 781
+        y: 192
+        width: 34
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a46cb9f17c2eb344873c1a9a0ebe338
+      internalID: 489285799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dor ben dor_144
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 126
+        width: 33
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e17d36a75eacdb4283f690f1013677f
+      internalID: -2133058255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dor ben dor_145
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 126
+        width: 29
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ffed61212d32d5419569083833e6cb2
+      internalID: -1790057508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dor ben dor_151
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 64
+        width: 41
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 366b5e4da71d0b343b7045f972c5682f
+      internalID: -1230447675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dor ben dor_152
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 64
+        width: 44
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0726747abf9d0914abb1acaf76cf800b
+      internalID: 467940502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dor ben dor_153
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 64
+        width: 32
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42cf4c15e95597d4d816ce74777c7914
+      internalID: -33672972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dor ben dor_154
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 64
+        width: 35
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba773e488bb0f9243999fcd2c6a631a3
+      internalID: -1733240012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dor ben dor_155
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 64
+        width: 35
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eca59ccac5bfbc4429e1984057236efa
+      internalID: -1142760571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dor ben dor_156
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 64
+        width: 33
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 040c49a866bafab41ba198fe0a9d3ee5
+      internalID: 156218099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dor ben dor_157
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 64
+        width: 35
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a016d626a8250414594aa6bb1264d60a
+      internalID: 1904857208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dor ben dor_158
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 64
+        width: 36
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af9941eab16fd2a48889fb9556d78cd8
+      internalID: 292514332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dor ben dor_159
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 64
+        width: 38
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83f5daa0296d596428b1721cb2990c95
+      internalID: -1766043541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dor ben dor_160
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 64
+        width: 35
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4c1d5d424a980f4aa48bd0c118df39d
+      internalID: -1869307219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dor ben dor_161
+      rect:
+        serializedVersion: 2
+        x: 657
+        y: 64
+        width: 34
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6325e0c25ccb064f9ee287c56c4f40b
+      internalID: 1392975333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dor ben dor_162
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 64
+        width: 36
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c69e361c4eae04409a34358e115734b
+      internalID: -95289683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dor ben dor_163
+      rect:
+        serializedVersion: 2
+        x: 785
+        y: 64
+        width: 34
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32d7fbfa79fd42f41ac34a121b94bcf3
+      internalID: 1454254156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dor ben dor_164
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 0
+        width: 30
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90acb17bf9cdbd94f8d74fdfae3921de
+      internalID: 1368100451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dor ben dor_168
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 0
+        width: 35
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5aaecb40297d754468fe1e0a20465a15
+      internalID: -1917996257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dor ben dor_170
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 1
+        width: 33
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d1fce8b73a18d240acaa2dcbda0d682
+      internalID: -666661860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dor ben dor_171
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 0
+        width: 34
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9faa2c8b32552b84ebe3807513e9b9e0
+      internalID: -726396415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dor ben dor_0
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 1088
+        width: 70
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 461dad851900aae4da01e4db62aef039
+      internalID: -56180262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Dor ben dor_0: -56180262
+      Dor ben dor_1: -1677416148
+      Dor ben dor_10: -1894847077
+      Dor ben dor_100: -1136911700
+      Dor ben dor_101: 644100987
+      Dor ben dor_102: -1536296460
+      Dor ben dor_103: 1549524545
+      Dor ben dor_104: 1065933447
+      Dor ben dor_105: 259668201
+      Dor ben dor_106: 1640258955
+      Dor ben dor_107: 875956906
+      Dor ben dor_108: 1653573071
+      Dor ben dor_109: -146530292
+      Dor ben dor_11: -1205112520
+      Dor ben dor_110: 1233466887
+      Dor ben dor_111: -1041799037
+      Dor ben dor_112: -1969764500
+      Dor ben dor_113: -604390212
+      Dor ben dor_114: -1667047501
+      Dor ben dor_115: -86828737
+      Dor ben dor_116: -1243826002
+      Dor ben dor_117: -1775052622
+      Dor ben dor_118: -1599076307
+      Dor ben dor_119: 248213948
+      Dor ben dor_12: 786132945
+      Dor ben dor_120: 759220006
+      Dor ben dor_121: 184008746
+      Dor ben dor_122: 2075663386
+      Dor ben dor_123: -856767025
+      Dor ben dor_124: -378543436
+      Dor ben dor_125: -626622595
+      Dor ben dor_126: -2019494386
+      Dor ben dor_127: 27809780
+      Dor ben dor_128: -950192487
+      Dor ben dor_129: 1987838754
+      Dor ben dor_13: -223996242
+      Dor ben dor_130: -1300554548
+      Dor ben dor_131: -1373064164
+      Dor ben dor_132: -1768300763
+      Dor ben dor_133: 314184966
+      Dor ben dor_134: -1354881272
+      Dor ben dor_135: -1099285639
+      Dor ben dor_136: 1587597236
+      Dor ben dor_137: 489285799
+      Dor ben dor_138: 1487783086
+      Dor ben dor_139: -2056443516
+      Dor ben dor_14: -547935574
+      Dor ben dor_140: 1613866709
+      Dor ben dor_141: -2325807
+      Dor ben dor_142: 1681880948
+      Dor ben dor_143: 193307060
+      Dor ben dor_144: -2133058255
+      Dor ben dor_145: -1790057508
+      Dor ben dor_146: 1701660219
+      Dor ben dor_147: 1622656762
+      Dor ben dor_148: 813492555
+      Dor ben dor_149: 1187095662
+      Dor ben dor_15: -914898380
+      Dor ben dor_150: 1173904851
+      Dor ben dor_151: -1230447675
+      Dor ben dor_152: 467940502
+      Dor ben dor_153: -33672972
+      Dor ben dor_154: -1733240012
+      Dor ben dor_155: -1142760571
+      Dor ben dor_156: 156218099
+      Dor ben dor_157: 1904857208
+      Dor ben dor_158: 292514332
+      Dor ben dor_159: -1766043541
+      Dor ben dor_16: -1768796337
+      Dor ben dor_160: -1869307219
+      Dor ben dor_161: 1392975333
+      Dor ben dor_162: -95289683
+      Dor ben dor_163: 1454254156
+      Dor ben dor_164: 1368100451
+      Dor ben dor_165: 622271728
+      Dor ben dor_166: -585233568
+      Dor ben dor_167: 1408480938
+      Dor ben dor_168: -1917996257
+      Dor ben dor_169: -334914360
+      Dor ben dor_17: -1581248125
+      Dor ben dor_170: -666661860
+      Dor ben dor_171: -726396415
+      Dor ben dor_172: -1808131685
+      Dor ben dor_173: -1530707840
+      Dor ben dor_174: 383421201
+      Dor ben dor_175: 1544603506
+      Dor ben dor_176: 809895351
+      Dor ben dor_18: 792175499
+      Dor ben dor_19: -1141032286
+      Dor ben dor_2: 1979069267
+      Dor ben dor_20: -407029571
+      Dor ben dor_21: 724599465
+      Dor ben dor_22: -777440535
+      Dor ben dor_23: 328278093
+      Dor ben dor_24: 680987145
+      Dor ben dor_25: -731300797
+      Dor ben dor_26: 792552393
+      Dor ben dor_27: 1001045270
+      Dor ben dor_28: -1314981301
+      Dor ben dor_29: -1240807628
+      Dor ben dor_3: 1089714651
+      Dor ben dor_30: 1566103042
+      Dor ben dor_31: 1997340251
+      Dor ben dor_32: 1907418799
+      Dor ben dor_33: 731863625
+      Dor ben dor_34: 929001149
+      Dor ben dor_35: -1474034121
+      Dor ben dor_36: 717828883
+      Dor ben dor_37: 469894739
+      Dor ben dor_38: 622141450
+      Dor ben dor_39: -1001559016
+      Dor ben dor_4: 21366807
+      Dor ben dor_40: 1761070928
+      Dor ben dor_41: -495033706
+      Dor ben dor_42: -264970624
+      Dor ben dor_43: -2128910291
+      Dor ben dor_44: 1445091594
+      Dor ben dor_45: -2139207965
+      Dor ben dor_46: 1465476766
+      Dor ben dor_47: -1966185704
+      Dor ben dor_48: -2039451939
+      Dor ben dor_49: -572090990
+      Dor ben dor_5: -1445871573
+      Dor ben dor_50: 2090396771
+      Dor ben dor_51: 1406757505
+      Dor ben dor_52: -933654152
+      Dor ben dor_53: 1914610082
+      Dor ben dor_54: -668792823
+      Dor ben dor_55: -931307057
+      Dor ben dor_56: -657740316
+      Dor ben dor_57: -2029191278
+      Dor ben dor_58: 1332564394
+      Dor ben dor_59: -224821974
+      Dor ben dor_6: -1949197954
+      Dor ben dor_60: -885301586
+      Dor ben dor_61: 1027990820
+      Dor ben dor_62: -1244153648
+      Dor ben dor_63: -1528727974
+      Dor ben dor_64: 1298130700
+      Dor ben dor_65: 1660342762
+      Dor ben dor_66: 889688163
+      Dor ben dor_67: -2018647832
+      Dor ben dor_68: -535690705
+      Dor ben dor_69: -9479794
+      Dor ben dor_7: 1486153945
+      Dor ben dor_70: 1245742368
+      Dor ben dor_71: -1565220901
+      Dor ben dor_72: 2130375540
+      Dor ben dor_73: -333582642
+      Dor ben dor_74: 1563347832
+      Dor ben dor_75: 1835743224
+      Dor ben dor_76: 895236628
+      Dor ben dor_77: -1215497760
+      Dor ben dor_78: -2089777348
+      Dor ben dor_79: 538615480
+      Dor ben dor_8: -1253736878
+      Dor ben dor_80: 1503416770
+      Dor ben dor_81: -510417684
+      Dor ben dor_82: -989921608
+      Dor ben dor_83: -388373357
+      Dor ben dor_84: -416680866
+      Dor ben dor_85: -1809743559
+      Dor ben dor_86: 1514997589
+      Dor ben dor_87: 73448544
+      Dor ben dor_88: 1631604710
+      Dor ben dor_89: 160601829
+      Dor ben dor_9: -853499597
+      Dor ben dor_90: -1336846807
+      Dor ben dor_91: 1796385162
+      Dor ben dor_92: 1581366813
+      Dor ben dor_93: 387266969
+      Dor ben dor_94: -1444555894
+      Dor ben dor_95: -128643196
+      Dor ben dor_96: -1520084187
+      Dor ben dor_97: 1335586739
+      Dor ben dor_98: 1184339094
+      Dor ben dor_99: -2144645843
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

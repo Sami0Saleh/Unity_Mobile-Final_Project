@@ -1,0 +1,2008 @@
+fileFormatVersion: 2
+guid: e715a5dedb5f219488c93962640bb740
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Ofir_0
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 1216
+        width: 30
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0dc98f57e49a105459720697f7f9f0c1
+      internalID: 201675848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ofir_1
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 1216
+        width: 27
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 876814385f2c83843be5c19362c322ac
+      internalID: -1866252076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ofir_2
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 1216
+        width: 57
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9309d092e5b35994aadbcad2fe87632f
+      internalID: -1492740674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ofir_3
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 703
+        width: 26
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f62936ef211e19f47a31466f8cdc66fe
+      internalID: -1441054374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ofir_4
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 704
+        width: 28
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 314ce9246160c70458b410fe4686a399
+      internalID: 913408428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ofir_5
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 576
+        width: 28
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87f862f4466124845beba3623378b1c7
+      internalID: -858630122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ofir_6
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 0
+        width: 31
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72c19096fc4b3964480a94fa90125b92
+      internalID: -225698263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ofir_8
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 1216
+        width: 63
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93bfbe6ac2f445e4bb9a22a1544c6aa1
+      internalID: 1379227763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ofir_9
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 1207
+        width: 103
+        height: 85
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de30d8df1eba80a49a204a79dda11eb3
+      internalID: -936137168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ofir_13
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 1216
+        width: 26
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 446e8c4876d508e4c9ef291a13d12b3b
+      internalID: -509901730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ofir_15
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 1216
+        width: 49
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba80d2bc1ae12f7408206c33a3cfef1f
+      internalID: 1810468612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ofir_17
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 1152
+        width: 30
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cd8feefeb519994bb4c5b59712c169f
+      internalID: -1909289806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ofir_20
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 1152
+        width: 30
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 634932f0f3551724ab2f1956a5b4e8fd
+      internalID: -1597759343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ofir_23
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 1152
+        width: 35
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6b02bfa1a9f1964eaf989190fe292d4
+      internalID: -2027981755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ofir_25
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 1152
+        width: 73
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1852b9525bec6dd4b91a1fcfd60d332c
+      internalID: -934182134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ofir_26
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 1152
+        width: 38
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d2f05abda225be4fa59bea37ed8b97a
+      internalID: -162874528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ofir_28
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 1152
+        width: 31
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04b4386b34a48494bbc3e8cd4fdad8c8
+      internalID: 298903192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ofir_31
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 1152
+        width: 31
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56000e3654a4f9a4585f028cee6d2650
+      internalID: -1912894797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ofir_37
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 1088
+        width: 30
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86ee0746a2c52fb4cae9596c6cc62239
+      internalID: 1506496920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ofir_39
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 1088
+        width: 24
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1181d9e6e21498147bc097d33fe04325
+      internalID: 1562292883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ofir_40
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 1087
+        width: 26
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3969c0507a0957b49aa7002abf02d0db
+      internalID: -374160098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ofir_43
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 1088
+        width: 51
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efac3c8fb1c86ae4aa31e39f0ac62d3c
+      internalID: -1708915593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ofir_44
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 1088
+        width: 57
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 415ed1cdd288d69429f82d84ae5de242
+      internalID: 1585055537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ofir_46
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 1087
+        width: 57
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0ed1b5c70db7f142b43a2f4e2ab6160
+      internalID: -1926613472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ofir_47
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 1086
+        width: 65
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71ad4e12f30c51f43863602e491f61b4
+      internalID: 909810511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ofir_51
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 704
+        width: 28
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 711b324c1da74f347883840ce3780dd7
+      internalID: 610772111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ofir_52
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 703
+        width: 28
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 791f947d6a6fbcf4aab7cc02b9f52b00
+      internalID: -1244725444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ofir_54
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 704
+        width: 29
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 223393be842c2984f8c410a0510573fb
+      internalID: 786694548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ofir_57
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 702
+        width: 26
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81c7e26406c7d72428b2611bc8a46467
+      internalID: -154722498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ofir_66
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 704
+        width: 26
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb36674397c5ce446b249e3bbe5da4aa
+      internalID: 2088703759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ofir_69
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 704
+        width: 28
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f90fdb89826dbed4fbd7ac9fc110e050
+      internalID: -729899428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ofir_71
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 704
+        width: 27
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcad6d9fbbe9a9e45a27bce2b8862022
+      internalID: -724853944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ofir_81
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 576
+        width: 27
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95e44456b57fce34d9789dfe9c6d7f20
+      internalID: -311149866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ofir_89
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 576
+        width: 29
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 658bc6646f24dd948bc55fc4f35fc683
+      internalID: 1798171727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ofir_90
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 576
+        width: 28
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85591240c7e5de74cb8ab93777703b92
+      internalID: -1805926241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ofir_96
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 576
+        width: 26
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8104e5b5fd7db0448e4109d4475320c
+      internalID: 823458627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ofir_97
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 576
+        width: 28
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d22a36bfe8fd19f4b8d05b7ee009a888
+      internalID: -111896994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ofir_98
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 576
+        width: 27
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77d8c67cc7977e446a9696b69a9b24fd
+      internalID: -32576544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ofir_99
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 576
+        width: 29
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a911adb8bb8caf34eab481c3a069dde1
+      internalID: 1929236149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ofir_100
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 576
+        width: 28
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d7d5e813e2e4e64b8685fb6090d1929
+      internalID: -374886287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ofir_103
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 512
+        width: 30
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de13ec2a4fd281c44a31c37a71c6f998
+      internalID: -1739368754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ofir_105
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 512
+        width: 35
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c74718f2c766ee4fa70ec8a97b407ac
+      internalID: 1038215567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ofir_107
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 512
+        width: 37
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3c7356e7bf1d8f49baecc1a2acd56d3
+      internalID: -1833323270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ofir_110
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 512
+        width: 35
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 602dc11a7102245438932b60241ade46
+      internalID: -218200436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ofir_111
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 448
+        width: 24
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10d5c7dd1eb86e24cb372cda3bab7727
+      internalID: -1303073165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ofir_119
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 448
+        width: 36
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7040e65608ff2944b00cb2f791cae8a
+      internalID: 1062684566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ofir_121
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 448
+        width: 26
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44cc1c13428ec5d41aafd0662596c360
+      internalID: -1043911633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ofir_123
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 448
+        width: 28
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c74cef3e709eae345a802f237e4317e0
+      internalID: -1566146811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ofir_124
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 448
+        width: 34
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 677b4e66195130f48bb9bdeb0c4e2cdf
+      internalID: 280689567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ofir_125
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 448
+        width: 33
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c157bc4673ec3c4ca02c3f35fddbae9
+      internalID: 360605989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ofir_131
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 384
+        width: 34
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbaee4bc48b59a749ae87c0855fefb69
+      internalID: -1126207291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ofir_135
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 384
+        width: 39
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6c9fcecc4e151640a31d5249e10a291
+      internalID: -779705906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ofir_136
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 384
+        width: 38
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29a310694b93690438d3afa9f5baba80
+      internalID: 1173026526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ofir_138
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 384
+        width: 38
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 453999ecb1e0d2546871427e84f5ff27
+      internalID: -1992597479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ofir_142
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 320
+        width: 33
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54d46763d7dc5f34c81853a975907a08
+      internalID: -388606825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ofir_143
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 320
+        width: 26
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e95d7a044dbba74baebe0e9145c3c8e
+      internalID: -100235289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ofir_146
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 320
+        width: 26
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1ec654005d1104489cad5cf27c80e8c
+      internalID: 426731483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ofir_149
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 320
+        width: 27
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a9707c724210a74c945b6bc194b3980
+      internalID: 35178274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ofir_151
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 320
+        width: 34
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 959000749169b5440ae6bcf9136c9197
+      internalID: -348744595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ofir_153
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 320
+        width: 36
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44e7f797138f8ea449394fc4844a5a00
+      internalID: -663163815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ofir_166
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 192
+        width: 32
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f81bf7b7f69006842b324e379e211e71
+      internalID: -833839777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ofir_167
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 192
+        width: 35
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06528f5239ea0674d8551d04dcc35991
+      internalID: -1191691553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ofir_169
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 192
+        width: 35
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4d4e076aef9afd46b8f29819e6ec298
+      internalID: 321719887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ofir_172
+      rect:
+        serializedVersion: 2
+        x: 653
+        y: 192
+        width: 34
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce456f99498db284683e9605b36d1a70
+      internalID: -1945794995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ofir_173
+      rect:
+        serializedVersion: 2
+        x: 717
+        y: 192
+        width: 34
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1ffa1407bad4a84782fb684e4a78a4b
+      internalID: -917209011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ofir_174
+      rect:
+        serializedVersion: 2
+        x: 781
+        y: 192
+        width: 35
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66e93009680bcc745a0fd2cbeaa826ab
+      internalID: -98871449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ofir_195
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 64
+        width: 35
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2804c7fd9f56b94fb64d5bb208ff1a9
+      internalID: -1266647235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ofir_199
+      rect:
+        serializedVersion: 2
+        x: 657
+        y: 64
+        width: 34
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7427633734a7890448a3d46e23c9a263
+      internalID: -260644098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ofir_202
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 64
+        width: 32
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9177bb9e9795bcc40a4407eddb342f1c
+      internalID: -151919487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ofir_203
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 64
+        width: 35
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 922efa79b74af8a4bbb1176b14cf7d47
+      internalID: -262753016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ofir_204
+      rect:
+        serializedVersion: 2
+        x: 721
+        y: 64
+        width: 34
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0dc1239b1a6485c489f36c4e654b42f4
+      internalID: 1723362551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ofir_206
+      rect:
+        serializedVersion: 2
+        x: 785
+        y: 64
+        width: 34
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2435e14d68840e04ebd287e77ee16f8f
+      internalID: -1130369139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ofir_207
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 0
+        width: 34
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 035e7178bba2a52439087581afa58582
+      internalID: -713903274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ofir_216
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 0
+        width: 35
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d75c6477f14d98f4e8ecec01676ff8e4
+      internalID: 1162817526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ofir_218
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 0
+        width: 35
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2931be15bd1c2a84aa85d42d6384e96a
+      internalID: 417595229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ofir_220
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 1
+        width: 33
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3df7c86a30c41134bb279766932abde9
+      internalID: -793534934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ofir_221
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 0
+        width: 34
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83bb6fec8dc9aa144b1a3a7683a778b2
+      internalID: -1107992292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Ofir_0: 201675848
+      Ofir_1: -1866252076
+      Ofir_10: -79609765
+      Ofir_100: -374886287
+      Ofir_101: 1705028722
+      Ofir_102: 651044561
+      Ofir_103: -1739368754
+      Ofir_104: -1160047326
+      Ofir_105: 1038215567
+      Ofir_106: -1682856171
+      Ofir_107: -1833323270
+      Ofir_108: -1118978879
+      Ofir_109: 1977177838
+      Ofir_11: -118402654
+      Ofir_110: -218200436
+      Ofir_111: -1303073165
+      Ofir_112: 130305665
+      Ofir_113: -1504713698
+      Ofir_114: -1247316686
+      Ofir_115: -247796183
+      Ofir_116: 290728083
+      Ofir_117: -986562561
+      Ofir_118: 1931805973
+      Ofir_119: 1062684566
+      Ofir_12: -623524942
+      Ofir_120: -1860113972
+      Ofir_121: -1043911633
+      Ofir_122: -1095314588
+      Ofir_123: -1566146811
+      Ofir_124: 280689567
+      Ofir_125: 360605989
+      Ofir_126: 1532854971
+      Ofir_127: 1758075839
+      Ofir_128: 1395711155
+      Ofir_129: -728404773
+      Ofir_13: -509901730
+      Ofir_130: 1015843599
+      Ofir_131: -1126207291
+      Ofir_132: 844136590
+      Ofir_133: -527051929
+      Ofir_134: 894889067
+      Ofir_135: -779705906
+      Ofir_136: 1173026526
+      Ofir_137: -2070534810
+      Ofir_138: -1992597479
+      Ofir_139: 904637261
+      Ofir_14: 859708333
+      Ofir_140: -1699671029
+      Ofir_141: -1366171877
+      Ofir_142: -388606825
+      Ofir_143: -100235289
+      Ofir_144: -308834471
+      Ofir_145: 388987950
+      Ofir_146: 426731483
+      Ofir_147: -731537755
+      Ofir_148: -320189913
+      Ofir_149: 35178274
+      Ofir_15: 1810468612
+      Ofir_150: -1080906718
+      Ofir_151: -348744595
+      Ofir_152: 2087563390
+      Ofir_153: -663163815
+      Ofir_154: 2051611287
+      Ofir_155: 739336892
+      Ofir_156: -986645453
+      Ofir_157: -1878748879
+      Ofir_158: -1542236099
+      Ofir_159: 804906504
+      Ofir_16: -1488483780
+      Ofir_160: -521368247
+      Ofir_161: -805060878
+      Ofir_162: -273108459
+      Ofir_163: 1800247686
+      Ofir_164: -916626823
+      Ofir_165: -1874428703
+      Ofir_166: -833839777
+      Ofir_167: -1191691553
+      Ofir_168: 731702664
+      Ofir_169: 321719887
+      Ofir_17: -1909289806
+      Ofir_170: 146327531
+      Ofir_171: 89673364
+      Ofir_172: -1945794995
+      Ofir_173: -917209011
+      Ofir_174: -98871449
+      Ofir_175: -1603889590
+      Ofir_176: -271612888
+      Ofir_177: 1634025782
+      Ofir_178: 1625822912
+      Ofir_179: 1809575561
+      Ofir_18: -1265401146
+      Ofir_180: 214366081
+      Ofir_181: -1262979855
+      Ofir_182: 1820838047
+      Ofir_183: -673421116
+      Ofir_184: -886622106
+      Ofir_185: -1601875603
+      Ofir_186: 775200190
+      Ofir_187: 1428395499
+      Ofir_188: 1855235237
+      Ofir_189: 2006584003
+      Ofir_19: 110135435
+      Ofir_190: 366642197
+      Ofir_191: -1608342498
+      Ofir_192: 1094723022
+      Ofir_193: 373206157
+      Ofir_194: -456583682
+      Ofir_195: -1266647235
+      Ofir_196: -1308601951
+      Ofir_197: 1936954547
+      Ofir_198: 163484415
+      Ofir_199: -260644098
+      Ofir_2: -1492740674
+      Ofir_20: -1597759343
+      Ofir_200: 17191140
+      Ofir_201: 1257261304
+      Ofir_202: -151919487
+      Ofir_203: -262753016
+      Ofir_204: 1723362551
+      Ofir_205: 1204045128
+      Ofir_206: -1130369139
+      Ofir_207: -713903274
+      Ofir_208: 172666937
+      Ofir_209: -598191133
+      Ofir_21: 2132969308
+      Ofir_210: -1041175014
+      Ofir_211: -296830675
+      Ofir_212: -758858023
+      Ofir_213: -880754543
+      Ofir_214: 1700512887
+      Ofir_215: 1192589082
+      Ofir_216: 1162817526
+      Ofir_217: 772488702
+      Ofir_218: 417595229
+      Ofir_219: 476014886
+      Ofir_22: -1015789987
+      Ofir_220: -793534934
+      Ofir_221: -1107992292
+      Ofir_222: 1537857990
+      Ofir_223: -949845408
+      Ofir_224: -108835706
+      Ofir_23: -2027981755
+      Ofir_24: 955249037
+      Ofir_25: -934182134
+      Ofir_26: -162874528
+      Ofir_27: -403859997
+      Ofir_28: 298903192
+      Ofir_29: -373946935
+      Ofir_3: -1441054374
+      Ofir_30: 938855418
+      Ofir_31: -1912894797
+      Ofir_32: 1484571402
+      Ofir_33: 2117026454
+      Ofir_34: -511234928
+      Ofir_35: 842331111
+      Ofir_36: 1179239434
+      Ofir_37: 1506496920
+      Ofir_38: -261040146
+      Ofir_39: 1562292883
+      Ofir_4: 913408428
+      Ofir_40: -374160098
+      Ofir_41: -988673521
+      Ofir_42: -1810937699
+      Ofir_43: -1708915593
+      Ofir_44: 1585055537
+      Ofir_45: -1800929725
+      Ofir_46: -1926613472
+      Ofir_47: 909810511
+      Ofir_48: 1986762973
+      Ofir_49: -320499740
+      Ofir_5: -858630122
+      Ofir_50: 1907851520
+      Ofir_51: 610772111
+      Ofir_52: -1244725444
+      Ofir_53: 2091622614
+      Ofir_54: 786694548
+      Ofir_55: -2138120685
+      Ofir_56: 1171373294
+      Ofir_57: -154722498
+      Ofir_58: -1117284238
+      Ofir_59: -326494720
+      Ofir_6: -225698263
+      Ofir_60: 1018618273
+      Ofir_61: -434810783
+      Ofir_62: -634507173
+      Ofir_63: -1737830878
+      Ofir_64: -49957539
+      Ofir_65: -38059024
+      Ofir_66: 2088703759
+      Ofir_67: -483036194
+      Ofir_68: 1638487743
+      Ofir_69: -729899428
+      Ofir_7: 2019372374
+      Ofir_70: -1349429246
+      Ofir_71: -724853944
+      Ofir_72: 704632577
+      Ofir_73: -1193409602
+      Ofir_74: 447537992
+      Ofir_75: -775158281
+      Ofir_76: 1841625712
+      Ofir_77: 514629077
+      Ofir_78: 1430859660
+      Ofir_79: -1471726607
+      Ofir_8: 1379227763
+      Ofir_80: 1143613191
+      Ofir_81: -311149866
+      Ofir_82: 916230143
+      Ofir_83: -1759269682
+      Ofir_84: 765120249
+      Ofir_85: -1090532933
+      Ofir_86: -319762250
+      Ofir_87: -231272404
+      Ofir_88: 1968992332
+      Ofir_89: 1798171727
+      Ofir_9: -936137168
+      Ofir_90: -1805926241
+      Ofir_91: 1682864763
+      Ofir_92: -1963989162
+      Ofir_93: -785452277
+      Ofir_94: 1786135010
+      Ofir_95: -1134837237
+      Ofir_96: 823458627
+      Ofir_97: -111896994
+      Ofir_98: -32576544
+      Ofir_99: 1929236149
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
