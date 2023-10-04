@@ -14,10 +14,6 @@ public class PauseMenu : MonoBehaviour
     [SerializeField]
     private float _tweenTime;
 
-    void Start()
-    {
-        gameObject.SetActive(false);
-    }
     private void OnApplicationPause(bool pause)
     {
         PauseGame();

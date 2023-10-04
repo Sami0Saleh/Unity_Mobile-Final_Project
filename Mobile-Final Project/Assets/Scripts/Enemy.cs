@@ -50,7 +50,7 @@ public class Enemy : MonoBehaviour
         }
         else if (distance <= 2f)
         {
-            if (currentSpecial > 5 && !enemySpecialAttackAnimation)
+            if (currentSpecial < 5 && !enemySpecialAttackAnimation)
                 AttackAnimation();
             else if (currentSpecial == 5)
             {

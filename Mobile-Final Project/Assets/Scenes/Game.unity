@@ -685,7 +685,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!224 &407282216
 RectTransform:
   m_ObjectHideFlags: 0
@@ -1317,7 +1317,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!224 &627119150
 RectTransform:
   m_ObjectHideFlags: 0
@@ -1747,7 +1747,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!224 &857621379
 RectTransform:
   m_ObjectHideFlags: 0
@@ -2908,7 +2908,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!224 &1427686861
 RectTransform:
   m_ObjectHideFlags: 0
@@ -3177,7 +3177,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!224 &1596531223
 RectTransform:
   m_ObjectHideFlags: 0
@@ -3475,7 +3475,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!224 &1683921993
 RectTransform:
   m_ObjectHideFlags: 0
@@ -4759,6 +4759,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Avishai
       objectReference: {fileID: 0}
+    - target: {fileID: 1553571079472850382, guid: 78d9fd5aa9d77764380dd3d50ace1b50, type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 4347819870148199515, guid: 78d9fd5aa9d77764380dd3d50ace1b50, type: 3}
       propertyPath: m_LocalPosition.x
       value: 9.05
@@ -4920,6 +4924,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Ofir
       objectReference: {fileID: 0}
+    - target: {fileID: 6393146768653899632, guid: ddc242fde484cab45825e3a66c36aaef, type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -5008,6 +5016,10 @@ PrefabInstance:
     - target: {fileID: 8635466574301848240, guid: 249362ac0588e404988a5f0aa053cb02, type: 3}
       propertyPath: m_Name
       value: Dor ben dor
+      objectReference: {fileID: 0}
+    - target: {fileID: 8635466574301848240, guid: 249362ac0588e404988a5f0aa053cb02, type: 3}
+      propertyPath: m_IsActive
+      value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []

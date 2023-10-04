@@ -7,10 +7,7 @@ public class GameEndManager : MonoBehaviour
 {
     [SerializeField]
     private LevelEndManager _levelEndManager;
-    void Start()
-    {
-        gameObject.SetActive(false);
-    }
+    
     public void GameEnd()
     {
         gameObject.SetActive(true);

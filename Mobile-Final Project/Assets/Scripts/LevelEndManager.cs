@@ -12,12 +12,7 @@ public class LevelEndManager : MonoBehaviour
     private EnemyManager _enemyManager;
     [SerializeField]
     private Player _player;
-    void Start()
-    {
-        gameObject.SetActive(false);
-        _youLose.SetActive(false);
-        _youWin.SetActive(false);
-    }
+    
     public void levelEnd()
     {
         gameObject.SetActive(true);
