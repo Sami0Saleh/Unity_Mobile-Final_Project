@@ -25,13 +25,14 @@ public class Enemy : MonoBehaviour
     public int currentHp = 100;
     public int maxHp = 100;
     public float movmentSpeed = 1;
-    public int attack = 1;
+    public int attack = 2;
     public int specialAttack = 8;
     public int currentSpecial = 0;
     public bool enemyAttack = false;
     public bool enemySpecialAttack = false;
     public bool attackHit = false;
     public bool specialAttackHit = false;
+    public bool enemySpecialAttackAnimation = false;
     private void Awake()
     {
         GameStateManager.Instance.OnGameStateChanged += OnGameStateChanged;
@@ -49,10 +50,13 @@ public class Enemy : MonoBehaviour
         }
         else if (distance <= 2f)
         {
-            if (currentSpecial == 5)
-                SpecialAttackAnimation();
-            else
+            if (currentSpecial > 5 && !enemySpecialAttackAnimation)
                 AttackAnimation();
+            else if (currentSpecial == 5)
+            {
+                SpecialAttackAnimation();
+                enemySpecialAttackAnimation = false;
+            }
         }
         if (currentHp <= 0)
         {
@@ -87,6 +91,7 @@ public class Enemy : MonoBehaviour
     }
     public bool SpecialAttackAnimation()
     {
+        enemySpecialAttackAnimation = true;
         _animator.Play("SpecialAttack");
         enemySpecialAttack = true;
         currentSpecial = 0;

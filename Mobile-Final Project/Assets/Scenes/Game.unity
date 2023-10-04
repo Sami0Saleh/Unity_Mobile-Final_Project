@@ -2781,7 +2781,7 @@ MonoBehaviour:
   _gameEndManager: {fileID: 407282217}
   _levelEndManager: {fileID: 0}
   timerText: {fileID: 911828810}
-  initialTime: 5
+  initialTime: 40
 --- !u!1 &1184748890
 GameObject:
   m_ObjectHideFlags: 0
@@ -4800,6 +4800,10 @@ PrefabInstance:
       value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 4755132086514271624, guid: 78d9fd5aa9d77764380dd3d50ace1b50, type: 3}
+      propertyPath: attack
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 4755132086514271624, guid: 78d9fd5aa9d77764380dd3d50ace1b50, type: 3}
       propertyPath: _player
       value: 
       objectReference: {fileID: 2122462297}
@@ -4840,6 +4844,10 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 1452936874}
     m_Modifications:
+    - target: {fileID: 2031224504828223167, guid: ddc242fde484cab45825e3a66c36aaef, type: 3}
+      propertyPath: attack
+      value: 2
+      objectReference: {fileID: 0}
     - target: {fileID: 2031224504828223167, guid: ddc242fde484cab45825e3a66c36aaef, type: 3}
       propertyPath: _player
       value: 
@@ -4925,6 +4933,10 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 1452936874}
     m_Modifications:
+    - target: {fileID: 4071510400097609769, guid: 249362ac0588e404988a5f0aa053cb02, type: 3}
+      propertyPath: attack
+      value: 2
+      objectReference: {fileID: 0}
     - target: {fileID: 4071510400097609769, guid: 249362ac0588e404988a5f0aa053cb02, type: 3}
       propertyPath: _player
       value: 
@@ -5060,12 +5072,16 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 6565288460437978411, guid: 9a782fbbed7697f429280b57bf2cecda, type: 3}
       propertyPath: punch
-      value: 10
+      value: 3
       objectReference: {fileID: 0}
     - target: {fileID: 6565288460437978411, guid: 9a782fbbed7697f429280b57bf2cecda, type: 3}
       propertyPath: _healthBar
       value: 
       objectReference: {fileID: 1868181134}
+    - target: {fileID: 6565288460437978411, guid: 9a782fbbed7697f429280b57bf2cecda, type: 3}
+      propertyPath: specialAttack
+      value: 10
+      objectReference: {fileID: 0}
     - target: {fileID: 6565288460437978411, guid: 9a782fbbed7697f429280b57bf2cecda, type: 3}
       propertyPath: _gameEndManager
       value: 

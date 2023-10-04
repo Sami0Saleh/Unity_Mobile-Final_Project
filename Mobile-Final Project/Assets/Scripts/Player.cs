@@ -19,8 +19,8 @@ public class Player : MonoBehaviour
 	public bool isPlayerDead = false;
 	public int currentHp = 100;
 	public int maxHp = 100;
-	public int punch = 1;
-	public int specialAttack = 8;
+	public int punch = 3;
+	public int specialAttack = 10;
 	public int currentSpecial = 0;
 	public bool punchHit = false;
 	public bool specialAttackHit = false;

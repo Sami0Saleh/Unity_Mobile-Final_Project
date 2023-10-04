@@ -12,7 +12,7 @@ public class Timer : MonoBehaviour
     private float _currentTime;
 
     public Text timerText;
-    public int initialTime = 5;
+    public int initialTime = 40;
     private void Awake()
     {
         GameStateManager.Instance.OnGameStateChanged += OnGameStateChanged;
