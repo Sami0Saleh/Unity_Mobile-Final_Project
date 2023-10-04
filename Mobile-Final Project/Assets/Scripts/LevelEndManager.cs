@@ -21,13 +21,16 @@ public class LevelEndManager : MonoBehaviour
     public void levelEnd()
     {
         this.gameObject.SetActive(true);
-        if (GetActiveEnemy().currentHp == 0 || _player.currentHp > GetActiveEnemy().currentHp)
+        if (_player.level <= 3)
         {
-            _youWin.SetActive(true);
-        }
-        else if (_player.currentHp == 0 || _player.currentHp < GetActiveEnemy().currentHp)
-        {
-            _youLose.SetActive(true);
+            if (GetActiveEnemy().currentHp == 0 || _player.currentHp > GetActiveEnemy().currentHp)
+            {
+                _youWin.SetActive(true);
+            }
+            else if (_player.currentHp == 0 || _player.currentHp < GetActiveEnemy().currentHp)
+            {
+                _youLose.SetActive(true);
+            }
         }
     }
     private Enemy GetActiveEnemy()

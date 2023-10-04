@@ -97,6 +97,7 @@ public class PlayerController : MonoBehaviour
 	{
 		_animator.Play("Punch");
 		playerPunch = true;
+		playerspecialAttack = false;
 	}
 	public void SpecialAttackAnimation()
 	{
@@ -105,6 +106,7 @@ public class PlayerController : MonoBehaviour
 		_player.currentSpecial = 0;
 		_player.UpdateSpecial(_player.currentSpecial);
 		playerspecialAttack = true;
+		playerPunch = false;
 	}
 	public void DeathAnimation()
     {

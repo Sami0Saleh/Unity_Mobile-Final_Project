@@ -56,6 +56,7 @@ public class Enemy : MonoBehaviour
         }
         if (currentHp <= 0)
         {
+            _levelEndManager.levelEnd();
             FallAnimation();
             StartCoroutine(DelayEnemyLoad());
         }
@@ -95,7 +96,6 @@ public class Enemy : MonoBehaviour
     public bool FallAnimation()
     {
         _animator.Play("Death");
-        _levelEndManager.levelEnd();
         return true;
     }
     public void UpdateHP(int newCurrentHP)
@@ -140,13 +140,14 @@ public class Enemy : MonoBehaviour
     IEnumerator DelayEnemyLoad()
     {
         yield return new WaitForSeconds(1f);
-        if (_player.level < 3)
+        _levelManager.LoadNextLevel();
+        if (_player.level <= 3)
         {
             currentHp = maxHp;
             currentSpecial = 0;
             UpdateHP(currentHp);
             UpdateSpecial(currentSpecial);
         }
-        _levelManager.LoadNextLevel();
+        
     }
 }

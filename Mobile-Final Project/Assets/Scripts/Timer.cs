@@ -7,6 +7,8 @@ public class Timer : MonoBehaviour
 {
     [SerializeField]
     private GameEndManager _gameEndManager;
+    [SerializeField]
+    private LevelEndManager _levelEndManager;
     private float _currentTime;
 
     public Text timerText;
@@ -33,6 +35,7 @@ public class Timer : MonoBehaviour
         }
         else if (_currentTime == 0)
         {
+            _levelEndManager.levelEnd();
             _gameEndManager.GameEnd();
         }
     }

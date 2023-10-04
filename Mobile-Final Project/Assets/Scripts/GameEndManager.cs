@@ -13,8 +13,8 @@ public class GameEndManager : MonoBehaviour
     }
     public void GameEnd()
     {
-        _levelEndManager.levelEnd();
         this.gameObject.SetActive(true);
+        _levelEndManager.levelEnd();
         GameState currentGameState = GameStateManager.Instance.CurrentGameState;
         GameState newGameState = currentGameState == GameState.GamePlay
             ? GameState.Pause
